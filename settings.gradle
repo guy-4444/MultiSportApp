@@ -1,0 +1,4 @@
+include ':cycling'
+include ':common'
+include ':walking'
+rootProject.name = "MultiSportApp"
